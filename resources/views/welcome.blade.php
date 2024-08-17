@@ -4,7 +4,7 @@
 
 @section('content')
 
-            <h1 class="text-5xl my-16 text-center">Delivering awesome web experiences.</h1>
+            <h1 class="text-5xl my-32 text-center font-black text-indigo-700">Delivering awesome web experiences.</h1>
 
             <h2 class="my-4 text-3xl">Welcome to Jake Jenkins' Web Development Portfolio</h2>
             <p>
